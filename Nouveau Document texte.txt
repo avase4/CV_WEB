@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tom Maccioni - CV</title>
+    <title>Tom M. - CV</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -23,12 +23,12 @@
     </style>
 </head>
 <body>
-    <h1>Tom Maccioni</h1>
+    <h1>Tom M.</h1>
     <h2>Recherche une alternance pour mon BTS SIO</h2>
 
     <ul>
-        <li><strong>Téléphone :</strong> 06 13 28 85 95</li>
-        <li><strong>Email :</strong> <a href="mailto:tommaccioni@gmail.com">tommaccioni@gmail.com</a></li>
+        <li><strong>Téléphone :</strong> 06 ** ** **</li>
+        <li><strong>Email :</strong> <a href="mailto:tommaccioni@gmail.com">@gmail.com</a></li>
         <li><strong>LinkedIn :</strong> <a href="https://linkedin.com/in/exemple" target="_blank">linkedin.com/in/exemple</a></li>
         <li><strong>GitHub :</strong> <a href="https://github.com/exemple" target="_blank">github.com/exemple</a></li>
     </ul>

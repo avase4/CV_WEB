@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tom Maccioni - CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tom Maccioni</h1>
+    <h2>Recherche une alternance pour mon BTS SIO</h2>
+
+    <ul>
+        <li><strong>Téléphone :</strong> 06 13 28 85 95</li>
+        <li><strong>Email :</strong> <a href="mailto:tommaccioni@gmail.com">tommaccioni@gmail.com</a></li>
+        <li><strong>LinkedIn :</strong> <a href="https://linkedin.com/in/exemple" target="_blank">linkedin.com/in/exemple</a></li>
+        <li><strong>GitHub :</strong> <a href="https://github.com/exemple" target="_blank">github.com/exemple</a></li>
+    </ul>
+
+    <h2>Profil</h2>
+    <p>Actuellement en BTS SIO au cfai à Saint-Étienne. Grâce à cette formation et à mes efforts personnels, j'ai acquis de nombreuses compétences.</p>
+    <ul>
+        <li><strong>Date de naissance :</strong> 4 juin 2003</li>
+        <li><strong>Permis :</strong> Permis B</li>
+    </ul>
+
+    <h2>Expériences Professionnelles</h2>
+
+    <ul>
+        <li><strong>De mars 2024 à mars 2024</strong><br>Technicien informatique - LDLC<br>Stage de 3 semaines en tant que Technicien en SAV</li>
+        <li><strong>De décembre 2023 à décembre 2023</strong><br>Technicien informatique - LDLC<br>Stage de 4 semaines en tant que Technicien en SAV</li>
+        <li><strong>De janv. 2022 à févr. 2022</strong><br>Technicien informatique - LDLC<br>Stage de 3 semaines en tant que Technicien en SAV</li>
+        <li><strong>De mai 2020 à juil. 2020</strong><br>Électricien - TRIMELEC<br>Stage de 9 semaines en tant qu'électricien du bâtiment</li>
+        <li><strong>De juin 2019 à juin 2019</strong><br>Technicien informatique - LDLC<br>Stage de 4 semaines en tant que Technicien en SAV</li>
+    </ul>
+
+    <h2>Compétences</h2>
+    <ul>
+        <li>Windows / Windows Server</li>
+        <li>Linux</li>
+        <li>Maîtrise des logiciels basiques (Word, Excel...)</li>
+    </ul>
+
+    <h2>Formations</h2>
+    <ul>
+        <li><strong>De 2021 à 2024</strong><br>Bac Pro Système Numérique<br>Au lycée le Marais Sainte Thérèse, Saint-Étienne</li>
+        <li><strong>De 2019 à 2021</strong><br>CAP Électricien<br>Au lycée la Salle St Louis-Ste Barbe, Saint-Étienne</li>
+    </ul>
+
+    <h2>Langues</h2>
+    <ul>
+        <li>Anglais - Niveau A2</li>
+    </ul>
+
+    <h2>Loisirs</h2>
+    <ul>
+        <li>Informatique</li>
+        <li>Nouvelles technologies</li>
+    </ul>
+</body>
+</html>
